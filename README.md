@@ -1,0 +1,2 @@
+# HugoSSG
+Test Hugo SSG
